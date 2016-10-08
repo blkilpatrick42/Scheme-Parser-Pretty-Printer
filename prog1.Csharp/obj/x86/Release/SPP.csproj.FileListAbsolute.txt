@@ -1,0 +1,4 @@
+C:\Users\Brandon\Desktop\prog1.Csharp\bin\Release\SPP.exe
+C:\Users\Brandon\Desktop\prog1.Csharp\bin\Release\SPP.pdb
+C:\Users\Brandon\Desktop\prog1.Csharp\obj\x86\Release\SPP.exe
+C:\Users\Brandon\Desktop\prog1.Csharp\obj\x86\Release\SPP.pdb
